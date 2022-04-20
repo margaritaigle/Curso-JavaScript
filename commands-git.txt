@@ -1,3 +1,7 @@
+// esto es para subir cambios
 git add .
 git commit -m "AGREGAR UN MENSAJE"
 git push origin main
+
+ //esto es para bajar cambios
+ git pull origin main
