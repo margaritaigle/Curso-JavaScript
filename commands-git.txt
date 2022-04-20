@@ -5,3 +5,6 @@ git push origin main
 
  //esto es para bajar cambios
  git pull origin main
+
+ //esto es para clonar un repo
+ git clone "URL_REPO"
